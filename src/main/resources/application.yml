@@ -1,0 +1,11 @@
+server:
+  port: 8092
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  rabbitmq:
+    host: 192.168.103.67
+    port: 5672
+    username: lmz8957@cnki.net
+    password: limingzhi
+    virtual-host: /
