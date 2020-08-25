@@ -6,6 +6,6 @@ spring:
   rabbitmq:
     host: 192.168.103.67
     port: 5672
-    username: lmz8957@cnki.net
-    password: limingzhi
+    username: tianjl@123.net
+    password: tianjingle
     virtual-host: /

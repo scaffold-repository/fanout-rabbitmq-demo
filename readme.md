@@ -1,0 +1,1 @@
+# rabbotmq fanout model demo
